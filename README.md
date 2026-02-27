@@ -64,7 +64,7 @@ enterprise-research-rag/
 ## ⚙️ Installation (Local Setup)
 
 1. Clone the repository:
-git clone: 
+git clone: https://github.com/trinadh3nadh/enterprise-research-rag/tree/main
 
 cd enterprise-research-rag
 
